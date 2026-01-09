@@ -1,0 +1,4 @@
+baseURL = "https://nayirus.xyz/"
+languageCode = "en-us"
+title = "Nayirus"
+theme = "PaperMod"
