@@ -7,7 +7,7 @@ hideMeta: true
 
 # Nayirus 👋
 
-Builder · Experimenter · Developer
+Builder · Experimenter · Developer ✨
 
 <br>
 
