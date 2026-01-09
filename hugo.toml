@@ -2,3 +2,41 @@ baseURL = "https://nayirus.xyz/"
 languageCode = "en-us"
 title = "Nayirus"
 theme = "PaperMod"
+
+paginate = 10
+
+[params]
+env = "production"
+defaultTheme = "dark"
+showReadingTime = true
+showShareButtons = true
+showPostNavLinks = true
+showBreadCrumbs = true
+showCodeCopyButtons = true
+
+[menu]
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 3
+
+[[menu.main]]
+name = "Experiments"
+url = "/experiments/"
+weight = 4
+
+[[menu.main]]
+name = "Gallery"
+url = "/gallery/"
+weight = 5
