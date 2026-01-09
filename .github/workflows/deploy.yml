@@ -1,3 +1,5 @@
+# enable actions
+
 name: Deploy Hugo Site
 
 on:
